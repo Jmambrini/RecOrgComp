@@ -1,9 +1,6 @@
 /*
 Integrantes: 
-    Carlos Henrique de Oliveira Franco (Nº USP: 9771608)
-    Guilherme Brunassi Nogima (Nº USP: 9771629)
     João Pedro Silva Mambrini Ruiz (Nº USP: 9771675) 
-    Leonardo Akel Daher (Nº USP: 9771682)
 */
 #include <stdio.h>
 #include <stdlib.h>
